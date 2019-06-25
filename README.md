@@ -1,0 +1,2 @@
+# sharon
+trust none
